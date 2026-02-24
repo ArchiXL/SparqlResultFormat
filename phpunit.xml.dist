@@ -18,6 +18,9 @@
 			<file>SparqlResultFormat_body.php</file>
 			<file>SparqlResultFormat.hooks.php</file>
 		</include>
+		<exclude>
+			<file>src/SpecialSparqlResultFormat.php</file>
+		</exclude>
 		<report>
 			<clover outputFile="coverage.xml"/>
 			<html outputDirectory="coverage-html"/>
