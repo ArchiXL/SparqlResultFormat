@@ -2,7 +2,7 @@
 <phpunit
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.6/phpunit.xsd"
-	bootstrap="vendor/autoload.php"
+	bootstrap="tests/phpunit/bootstrap.php"
 	colors="true"
 	beStrictAboutTestsThatDoNotTestAnything="true"
 	forceCoversAnnotation="false"
@@ -18,9 +18,6 @@
 			<file>SparqlResultFormat_body.php</file>
 			<file>SparqlResultFormat.hooks.php</file>
 		</include>
-		<exclude>
-			<file>src/SpecialSparqlResultFormat.php</file>
-		</exclude>
 		<report>
 			<clover outputFile="coverage.xml"/>
 			<html outputDirectory="coverage-html"/>
