@@ -1,7 +1,7 @@
 # SparqlResultFormat
 
-[![CI](https://github.com/imolainformatica/SparqlResultFormat/actions/workflows/ci.yml/badge.svg)](https://github.com/imolainformatica/SparqlResultFormat/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/imolainformatica/SparqlResultFormat/branch/main/graph/badge.svg)](https://codecov.io/gh/imolainformatica/SparqlResultFormat)
+[![CI](https://github.com/ArchiXL/SparqlResultFormat/actions/workflows/ci.yml/badge.svg)](https://github.com/ArchiXL/SparqlResultFormat/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ArchiXL/SparqlResultFormat/branch/main/graph/badge.svg)](https://codecov.io/gh/ArchiXL/SparqlResultFormat)
 [![MediaWiki](https://img.shields.io/badge/MediaWiki-%3E%3D1.43-blue.svg)](https://www.mediawiki.org/wiki/MediaWiki)
 [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.1-purple.svg)](https://php.net)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
